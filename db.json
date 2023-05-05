@@ -1,0 +1,49 @@
+{
+  "customer": [
+    {
+      "name": "Tatsat",
+      "description": "developer",
+      "status": "Open",
+      "rate": "70.00",
+      "balance": "10000",
+      "deposit": "20",
+      "id": 1
+    },
+    {
+      "name": "Jaydeep",
+      "description": "developer",
+      "status": "Success",
+      "rate": "50.00",
+      "balance": "9000",
+      "deposit": "100",
+      "id": 2
+    },
+    {
+      "name": "Raj",
+      "description": "developer",
+      "status": "Success",
+      "rate": "100.00",
+      "balance": 10000,
+      "deposit": "400",
+      "id": 3
+    },
+    {
+      "name": "Prince",
+      "description": "developer",
+      "status": "Inactive",
+      "rate": "60.00",
+      "balance": "5000",
+      "deposit": "500",
+      "id": 4
+    },
+    {
+      "name": "Praveen",
+      "description": "developer",
+      "status": "Error",
+      "rate": "20.00",
+      "balance": "-4000",
+      "deposit": "18000",
+      "id": 5
+    }
+  ]
+}
